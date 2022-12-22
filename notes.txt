@@ -2,3 +2,34 @@
     between 2 API
 
 2. .env 
+
+
+ad this in the dev dependencies
+"eslint": "^8.30.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^5.0.0",
+IT_TE_10_Anish Dalvi11:41 AM
+
+
+command use to install and use eslint in the folder
+before download eslint extension and .eslintrc.json and also add the eslint-- script
+npm -g i eslint-cli
+npm i eslint --save-dev
+eslint .\
+
+
+
+
+//===> hashing
+BCRYPT
+1. hash() ;
+2. Compare() ;
+
+
+password ----------- Algo(takes key) + pwd => HASh
+
+we use to create 
+ = UTILS  -> helpers , utility , we use to compare hash and compare
